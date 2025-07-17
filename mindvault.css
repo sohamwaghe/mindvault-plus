@@ -1,0 +1,28 @@
+/* mindvault.css */
+Screen {
+    background: black;
+    color: white;
+}
+
+Header, Footer {
+    background: #1f1f1f;
+    color: #cccccc;
+}
+
+Input {
+    background: #2a2a2a;
+    border: round #555555;
+}
+
+Log {
+    background: #121212;
+    color: #eeeeee;
+}
+
+#note-list {
+    border: solid gray;
+    padding: 1 2;
+    height: 80%;
+    overflow: auto;
+}
+
